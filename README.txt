@@ -26,7 +26,7 @@ Double-click `index.html` to preview it in a browser, or upload the folder to a 
 
 FINAL VERSION UPDATES
 - WhatsApp: +91 60068 72232
-- Email: raqoipnazair004@gmail.com
+- Email: raqibnazir004@gmail.com
 - Instagram: @rakeeb.ffx
 - Added Client Reviews, Languages, Education/Achievement sections.
 - Video slots remain lightweight placeholders so you can add your own videos later.

@@ -22,3 +22,12 @@ You can add more projects by copying an existing `<article class="project">...</
 
 ## Run
 Double-click `index.html` to preview it in a browser, or upload the folder to a static hosting service.
+
+
+FINAL VERSION UPDATES
+- WhatsApp: +91 60068 72232
+- Email: raqoipnazair004@gmail.com
+- Instagram: @rakeeb.ffx
+- Added Client Reviews, Languages, Education/Achievement sections.
+- Video slots remain lightweight placeholders so you can add your own videos later.
+- Your profile image was supplied in chat, but it is not available as a mounted file in this workspace, so the profile image slot remains ready for the image.
